@@ -1,4 +1,4 @@
-Zomato Restaurants – Exploratory Data Analysis
+#Zomato Restaurants – Exploratory Data Analysis
 
 A two-level EDA project performed in Python to understand the structure, distribution, and insights of the Zomato restaurants dataset.
 
